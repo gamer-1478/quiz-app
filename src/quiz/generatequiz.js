@@ -39,7 +39,7 @@ const quizArray = [
     { at_num: "36", mass: "83.8	", name: "Krypton", symbol: "Kr" },
     { at_num: "37", mass: "85.4678", name: "Rubidium", symbol: "Rb" },
     { at_num: "38", mass: "87.62", name: "Strontium", symbol: "Sr" },
-    { at_num: "39", mass: "88.9059", name: "Yttriu", symbol: "Y" },
+    { at_num: "39", mass: "88.9059", name: "Yttrium", symbol: "Y" },
     { at_num: "40", mass: "91.224", name: "Zirconium", symbol: "Zr" },
     { at_num: "41", mass: "92.9064", name: "Niobium", symbol: "Nb" },
     { at_num: "42", mass: "95.94", name: "Molybdenum", symbol: "Mo" },
