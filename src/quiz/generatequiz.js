@@ -54,10 +54,8 @@ const quizArray = [
     { at_num: "51", mass: "121.76", name: "Antimony", symbol: "Sb" },
     { at_num: "52", mass: "127.6", name: "Tellurium", symbol: "Te" },
     { at_num: "53", mass: "126.904", name: "Iodine", symbol: "I" },
-    { at_num: "54", mass: "131.293", name: "Xenon", symbol: "Xe" }];
-
-//redundant data, ready to be added, didn't add cause no one learns so much
-/*   { at_num: "55", mass: "132.905", name: "Cesium", symbol: "Cs" },
+    { at_num: "54", mass: "131.293", name: "Xenon", symbol: "Xe" },
+   { at_num: "55", mass: "132.905", name: "Cesium", symbol: "Cs" },
    { at_num: "56", mass: "137.327", name: "Barium", symbol: "Ba" },
    { at_num: "57", mass: "138.905", name: "Lanthanum", symbol: "La" },
    { at_num: "58", mass: "140.116", name: "Cerium", symbol: "Ce" },
@@ -121,7 +119,7 @@ const quizArray = [
    { at_num: "116", mass: "293", name: "Livermorium", symbol: "Lv	" },
    { at_num: "117", mass: "260.9", name: "Ununseptium", symbol: "Uus" },
    { at_num: "118", mass: "294", name: "Ununoctium", symbol: "Uuo" }
-];*/
+];
 
 // a few variable's
 var serveQuestions = [];
